@@ -1,5 +1,7 @@
 # Pandas 뿌수기
 
+> 참고 사이트 : <https://pandas.pydata.org/docs/user_guide/10min.html#operations>
+
 ## 라이브러리 import
 
 ```python
