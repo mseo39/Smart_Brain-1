@@ -1,5 +1,8 @@
 # 스마트 브레인
 
+> 관련 논문
+[![Github All Releases]()]
+
 ## 깃허브 명령어
 
 ```txt
