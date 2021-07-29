@@ -1,7 +1,9 @@
 # 스마트 브레인
 
 > 관련 논문
-[![Github All Releases]()]
+
+(https://github.com/DevelopLee20/Smart_Brain/raw/main/Common/Gait_assessment_in_Parkinsons_disease_toward_an_ambulatory_system_for_long-term_monitoring.pdf)
+
 
 ## 깃허브 명령어
 
